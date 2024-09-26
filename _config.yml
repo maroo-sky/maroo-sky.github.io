@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Hee-Jun Jung"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hee-Jun Jung is a Ph.D. candidate in AI at GIST, advised by Professor Kangil Kim. His research spans disentanglement learning, visual reasoning, and group theory."
   location         : "Gwangju, South Korea"
   employer         : "Gwangju Institute of Science and Technology"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : hee-jun-jung-profile
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -81,6 +81,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  draft:
+    title: 'arXiv'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
