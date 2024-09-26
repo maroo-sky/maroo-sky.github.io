@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Hee-Jun Jung is a Ph.D. candidate in AI at GIST, advised by Professor Kangil Kim. His research spans disentanglement learning, visual reasoning, and group theory."
   location         : "Gwangju, South Korea"
-  employer         : "Gwangju Institute of Science and Technology"
+  employer         : "Gwangju Institute of Science and Technology (GIST)"
   uri              : # URL
   email            : "heejun.jung93@gmail.com"
 
@@ -82,7 +82,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   draft:
-    title: 'arXiv'
+    title: 'pre-print / under review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
