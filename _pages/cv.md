@@ -9,12 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+PDF file of CV
+=====
+[Download CV](http://maroo-sky.github.io/files/CV_main.pdf)
+
+<!--
 Education
 ======
 * Ph.D candidate in Aritificial Intelligence at AI Graduate School, Gwangju Institute of Science and Technology (GIST), advised by Professor Kangil Kim, 2020-present
 * B.S. in Mechanical Engineering, Kyung Hee University, 2012-2020
 
-<!--
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -31,7 +36,7 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
- -->
+
  
 Skills
 ======
@@ -49,13 +54,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!--
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
--->
+
 
 Teaching
 ======
@@ -66,3 +71,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
