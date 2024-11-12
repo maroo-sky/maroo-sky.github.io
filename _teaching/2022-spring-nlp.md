@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant - Natural Language Processing"
+title: "Teaching Assistant - Natural Language Processing (2022)"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2022-spring-nlp
