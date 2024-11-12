@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D candidate in Aritificial Intelligence at AI Graduate School, Gwangju Institute of Science and Technology (GIST), advised by Professor Kangil Kim, 2020-present
+* B.S. in Mechanical Engineering, Kyung Hee University, 2012-2020
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -31,15 +31,17 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+ -->
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+    * Python, C++, PyTorch
+* Softwares
+    * LaTex, git, Window series
+    * Docker
+* Background Knowledge
+    * Machine Learning, Deep Learning, Artificial Intelligence, Natural Lanuage Processing, Computer Vision
 
 Publications
 ======
@@ -47,12 +49,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+-->
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
