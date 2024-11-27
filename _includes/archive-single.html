@@ -64,12 +64,12 @@
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Slides</a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }}</p>
-    {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Paper</a></p>
     {% elsif ppost.paperurl and post.codeurl%}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codesurl }}">Code</a></p>
     {% elsif post.paperurl and post.codeurl and post.video%}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codesurl }}">Code</a> | <a href="{{ post.videosurl }}">Video</a></p>
+    {% elsif post.paperurl %}
+      <p><a href=" {{ post.paperurl }} ">Paper</a></p>
     {% elsif post.slidesurl %}
       <p>Download <a href="{{ post.slidesurl }}">Slides</a></p></p>
     {% endif %}
