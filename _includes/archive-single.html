@@ -55,9 +55,9 @@
     {% if post.citation and post.paperurl and post.slidesurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.slidesurl }}">Slides</a></p>
     {% elsif post.citation and post.paperurl and post.codeurl%}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codesurl }}">Slides</a></p>
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codesurl }}">Code</a></p>
     {% elsif post.citation and post.paperurl and post.codeurl and post.video%}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codesurl }}">Slides</a> | <a href="{{ post.videosurl }}">Slides</a></p>
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codesurl }}">Code</a> | <a href="{{ post.videosurl }}">Video</a></p>
     {% elsif post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a></p>
     {% elsif post.citation and post.slidesurl %}
@@ -67,9 +67,9 @@
     {% elsif post.paperurl %}
       <p><a href=" {{ post.paperurl }} ">Paper</a></p>
     {% elsif ppost.paperurl and post.codeurl%}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codesurl }}">Slides</a></p>
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codesurl }}">Code</a></p>
     {% elsif post.paperurl and post.codeurl and post.video%}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codesurl }}">Slides</a> | <a href="{{ post.videosurl }}">Slides</a></p>
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codesurl }}">Code</a> | <a href="{{ post.videosurl }}">Video</a></p>
     {% elsif post.slidesurl %}
       <p>Download <a href="{{ post.slidesurl }}">Slides</a></p></p>
     {% endif %}
