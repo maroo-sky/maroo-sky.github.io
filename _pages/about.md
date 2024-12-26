@@ -26,14 +26,17 @@ For more details, see my [CV](https://maroo-sky.github.io/files/CV_HeeJun_Jung.p
     
 # Publications
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        ## {{ category[1].title }}
+        {% capture category_title %}
+## {{ category[1].title }}
+        {% endcapture %}
+        {{ category_title | markdownify }}
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
