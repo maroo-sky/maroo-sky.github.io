@@ -23,7 +23,14 @@ For more details, see my [CV](https://maroo-sky.github.io/files/CV_HeeJun_Jung.p
 * (2020, 2022) **Teaching Assistant**
     * Natural Language Processing Lecture, GIST
     * Model Implementation
-    
+
+# Education
+* Gwanju Institute of Science and Technology (GIST), Gwanju, Korea
+    * Ph.D., Artificial Intelligence (2020 - present)
+    * Advisor: Kangil Kim
+* Kyung Hee University
+    * B.S., Mechanical Engineering (2012 - 2020)
+
 # Publications
 {% if site.publication_category %}
   {% for category in site.publication_category %}
@@ -47,4 +54,5 @@ For more details, see my [CV](https://maroo-sky.github.io/files/CV_HeeJun_Jung.p
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+
 
