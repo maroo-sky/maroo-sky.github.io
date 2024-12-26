@@ -8,7 +8,7 @@ date: 2023-12-30
 venue: 'Expert Systems with Applications'
 citation: 'Hee-Jun Jung, Doyeon Kim, Seung-Hoon Na, Kangil Kim. Feature structure distillation with Centered Kernel Alignment in BERT transferring. Expert Systems With Applications 2023.'
 paperurl: 'http://maroo-sky.github.io/files/paper_eswa_2023.pdf'
-codesurl: 'https://github.com/maroo-sky/FSD'
+codeurl: 'https://github.com/maroo-sky/FSD'
 bibtex: FSD.bib
 authors: '**Hee-Jun Jung**, Doyeon Kim, Seung-Hoon Na, Kangil Kim.'
 ---
