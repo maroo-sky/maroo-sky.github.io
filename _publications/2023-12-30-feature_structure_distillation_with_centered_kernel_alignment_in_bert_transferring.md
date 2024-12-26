@@ -1,7 +1,7 @@
 ---
 title: "Feature structure distillation with Centered Kernel Alignment in BERT transferring"
 collection: publications
-category: draft
+category: manuscripts
 permalink: /publication/2023-12-30-feature_structure_distillation_with_centered_kernel_alignment_in_bert_transferring
 excerpt: How to transfer the feature structure from teacher to student model?
 date: 2023-12-30
