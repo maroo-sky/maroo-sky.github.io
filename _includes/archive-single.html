@@ -88,10 +88,10 @@
           | <a href="{{ base_path }}/files/{{ post.bibtex }}" target="_blank" rel="noopener noreferrer">BibTeX</a>
         {% endif %}
         {% if post.slidesurl %}
-          | <a href="{{ base_path }}/files/{{ post.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>
+          | <a href="{{ post.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>
         {% endif %}
         {% if post.videourl %}
-          | <a href="{{ base_path }}/files/{{ post.poster }}" target="_blank" rel="noopener noreferrer">videourl</a>
+          | <a href="{{ post.poster }}" target="_blank" rel="noopener noreferrer">Video</a>
         {% endif %}
         </p>
 
