@@ -11,7 +11,7 @@ redirect_from:
 # About me
 I am Hee-Jun Jung, Ph.D. candidate in Artificial Intelligence at AI Graduate School of the Gwangju Institute of Science and Techonology (GIST), advised by Professor Kangil Kim. 
 My interests are Disentanglement Learning, Visual Reasoning, Representation Learning (symmetry) in Computer Vision, and Knowledge Distillation in Natural Launguage Processing.
-For more details, see my [CV](https://jiankeyang.github.io/files/CV_HeeJun_Jung.pdf).
+For more details, see my [CV](https://maroo-sky.github.io/files/CV_HeeJun_Jung.pdf).
 
 
 # News

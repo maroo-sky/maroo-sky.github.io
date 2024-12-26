@@ -11,7 +11,7 @@ redirect_from:
 
 PDF file of CV
 =====
-[Download CV](http://maroo-sky.github.io/files/CV_main.pdf)
+[Download CV](http://maroo-sky.github.io/files/CV_HeeJun_Jung.pdf)
 
 <!--
 Education
