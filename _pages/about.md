@@ -19,17 +19,20 @@ For more details, see my [CV](https://maroo-sky.github.io/files/CV_HeeJun_Jung.p
 * [2024.11.] CFASL: Composite Factor-Aligned Symmetry Learning for Disentanglement in Variational AutoEncoder was accepted at Transactions on Machine Learning Research (TMLR).
 * [2023.07.] Feature Structure Distillation with Centered Kernel Alignment in BERT Transferring was accepted in Expert Systems with Applications.
 
-# Experiences
-* (2020, 2022) **Teaching Assistant**
-    * Natural Language Processing Lecture, GIST
-    * Model Implementation
 
 # Education
 * Gwanju Institute of Science and Technology (GIST), Gwanju, Korea
     * Ph.D., Artificial Intelligence (2020 - present)
     * Advisor: Kangil Kim
-* Kyung Hee University
+* Kyung Hee University, Suwon, Korea
     * B.S., Mechanical Engineering (2012 - 2020)
+
+
+# Research Experience
+* Kyung Hee University, Suwon, Korea
+    * Undergraduate Researcher, Intelligent Robotic Mechatronics System Lab (Mar. 2019 - Dec. 2019)
+    * Advisor: Soon Geul Lee 
+
 
 # Publications
 {% if site.publication_category %}

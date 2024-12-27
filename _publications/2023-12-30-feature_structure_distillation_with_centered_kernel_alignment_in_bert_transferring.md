@@ -11,6 +11,8 @@ paperurl: 'http://maroo-sky.github.io/files/paper_eswa_2023.pdf'
 codeurl: 'https://github.com/maroo-sky/FSD'
 bibtex: FSD.bib
 authors: '**Hee-Jun Jung**, Doyeon Kim, Seung-Hoon Na, Kangil Kim.'
+header:
+  teaser: fsd.jpg
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
