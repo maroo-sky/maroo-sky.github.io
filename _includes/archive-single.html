@@ -16,10 +16,16 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     <style>
+      body, .page-container {
+        max-width: 100vw;
+        width: 100%;
+        margin: 0;
+      }
       .container {
         display: flex; /* This creates a flex container */
         align-items: center; /* This vertically centers the items in the container */
-        max-width: 1500px; /* Ensure the container doesn't shrink unnecessarily */
+        width: 100%;
+        max-width: none; /* Ensure the container doesn't shrink unnecessarily */
         margin: 0 auto; /* Center the container horizontally */
         padding: 0 20px; /* Add some padding to prevent content from touching the edges */
       }
