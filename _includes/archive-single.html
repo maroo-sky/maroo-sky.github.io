@@ -19,9 +19,15 @@
       .container {
         display: flex; /* This creates a flex container */
         align-items: center; /* This vertically centers the items in the container */
+        max-width: 100%; /* Ensure the container doesn't shrink unnecessarily */
+        margin: 0 auto; /* Center the container horizontally */
+        padding: 0 20px; /* Add some padding to prevent content from touching the edges */
       }
       .image-block {
         margin-right: 20px; /* This adds some space between the image and the text */
+      }
+      .text-block {
+        flex: 1; /* Allow the text block to take up remaining space */
       }
       /* The text-block will automatically take up the remaining space */
     </style>
