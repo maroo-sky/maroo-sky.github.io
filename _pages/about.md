@@ -58,4 +58,9 @@ For more details, see my [CV](https://maroo-sky.github.io/files/CV_HeeJun_Jung.p
   {% endfor %}
 {% endif %}
 
+# Honor & Awards
+* RA Student Research Achievement Scholarship, AI Graduate School, GIST, 2024.
+* Superiority Scholarship, Kyung Hee University, 2019.
+* Superiority Scholarship, Kyung Hee University, 2017.
+* Mentor Scholarship, Kyung Hee University, 2015.
 
