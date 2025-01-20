@@ -43,9 +43,11 @@
         margin-bottom: 0px !important; /* Reduce space below the title */
       }
       .author-info {
-        font-size: 14px; /* Slightly smaller font size for author info */
+        font-size: 12px; /* Slightly smaller font size for author info */
         margin-top: 0 !important; /* Remove extra space above the authors */
         margin-bottom: 0 !important; /* Remove extra space below the authors */
+        line-height: 1.2; /* Adjust line height for compactness */
+        display: inline-block; /* Ensures it stays inline */
       }
       /*.venue-info {*/
       /*  font-size: 14px; !* Adjust font size if needed *!*/
@@ -53,7 +55,7 @@
       /*  margin-bottom: 0 !important; !* Remove extra space below the authors *!*/
       /*}*/
       .link-info {
-        font-size: 14px; /* Adjust font size if needed */
+        font-size: 12px; /* Adjust font size if needed */
         margin-top: 0 !important; /* Remove extra space above the authors */
       }
       /* The text-block will automatically take up the remaining space */
@@ -87,7 +89,7 @@
 <!--              <p class="author-info">{{ post.authors | markdownify }}</p>-->
 <!--              <p class="venue-info"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>-->
               <p class="author-info">
-                {{ post.authors | markdownify }} <span class="venue-info"> | <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</span>
+                {{ post.authors | markdownify }} | <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
               </p>
             {% elsif post.date %}
              <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
