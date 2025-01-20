@@ -10,7 +10,7 @@ citation: 'Hee-Jun Jung, Doyeon Kim, Seung-Hoon Na, Kangil Kim. Feature structur
 paperurl: 'http://maroo-sky.github.io/files/paper_eswa_2023.pdf'
 codeurl: 'https://github.com/maroo-sky/FSD'
 bibtex: FSD.bib
-authors: '**Hee-Jun Jung**, Doyeon Kim, Seung-Hoon Na, Kangil Kim.'
+authors: '**Hee-Jun Jung**, Doyeon Kim, Seung-Hoon Na, Kangil Kim., *Expert Systems with Applications*'
 header:
   teaser: fsd.jpg
 ---
