@@ -15,6 +15,9 @@ For more details, see my [CV](https://maroo-sky.github.io/files/CV_HeeJun_Jung.p
 
 
 # News
+* [2026.01.] Multiple Invertible and Partial-Equivariant Function for Latent Vector Transformation to Enhance
+Disentanglement in VAE was accepted at AISTATS 2026 as a main author.
+* [2026.01.] Symmetric Space Learning for Combinatorial Generalization was accepted at ICLR 2026 as a co-author.
 * [2024.12.] RA Student Research Achievement Scholarship, AI Graduate School, GIST, 2024.
 * [2024.11.] CFASL: Composite Factor-Aligned Symmetry Learning for Disentanglement in Variational AutoEncoder was accepted at Transactions on Machine Learning Research (TMLR).
 * [2023.07.] Feature Structure Distillation with Centered Kernel Alignment in BERT Transferring was accepted in Expert Systems with Applications.
