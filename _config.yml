@@ -77,10 +77,10 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal'
   conferences:
     title: 'Conference'
+  manuscripts:
+    title: 'Journal'
   draft:
     title: 'pre-print / under review'
 
