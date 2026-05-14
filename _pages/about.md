@@ -15,6 +15,7 @@ For more details, see my [CV](https://maroo-sky.github.io/files/CV_HeeJun_Jung.p
 
 
 # News
+* [2026.05.] Gold Reviewer (ranked in top 25%), ICML, 2026.
 * [2026.05.] Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization was accepted at ICML 2026.
 * [2026.01.] Multiple Invertible and Partial-Equivariant Function for Latent Vector Transformation to Enhance
 Disentanglement in VAE was accepted at AISTATS 2026.
@@ -63,6 +64,7 @@ Disentanglement in VAE was accepted at AISTATS 2026.
 {% endif %}
 
 # Honor & Awards
+* Gold Reviewer (ranked in top 25%), ICML, 2026.
 * RA Student Research Achievement Scholarship, AI Graduate School, GIST, 2024.
 * Superiority Scholarship, Kyung Hee University, 2017, 2019.
 * Mentor Scholarship, Kyung Hee University, 2015.
