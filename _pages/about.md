@@ -22,14 +22,15 @@ For more details, see my [CV](https://maroo-sky.github.io/files/CV_HeeJun_Jung.p
 Disentanglement in VAE was accepted at AISTATS 2026.
 * [2026.01.] Symmetric Space Learning for Combinatorial Generalization was accepted at ICLR 2026 as a co-author.
 
-<details>
-<summary><strong>Previous News</strong></summary>
-
-* [2024.12.] RA Student Research Achievement Scholarship, AI Graduate School, GIST, 2024.
-* [2024.11.] CFASL: Composite Factor-Aligned Symmetry Learning for Disentanglement in Variational AutoEncoder was accepted at Transactions on Machine Learning Research (TMLR).
-* [2023.07.] Feature Structure Distillation with Centered Kernel Alignment in BERT Transferring was accepted in Expert Systems with Applications.
-
+<details class="news-toggle">
+  <summary><strong>Previous News</strong></summary>
+  <ul>
+    <li>[2024.12.] RA Student Research Achievement Scholarship, AI Graduate School, GIST, 2024.</li>
+    <li>[2024.11.] CFASL: Composite Factor-Aligned Symmetry Learning for Disentanglement in Variational AutoEncoder was accepted at Transactions on Machine Learning Research (TMLR).</li>
+    <li>[2023.07.] Feature Structure Distillation with Centered Kernel Alignment in BERT Transferring was accepted in Expert Systems with Applications.</li>
+  </ul>
 </details>
+<br>
 
 # Education
 * Gwanju Institute of Science and Technology (GIST), Gwanju, Korea
