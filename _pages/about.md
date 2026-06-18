@@ -15,6 +15,7 @@ For more details, see my [CV](https://maroo-sky.github.io/files/CV_HeeJun_Jung.p
 
 
 # News
+* [2026.06.] Disentangling Rotation and Translation Equivariant Features for 3D Shape Assembly was accepted at ECCV 2026.
 * [2026.06.] Graduate International Research Experience Fellowship (GIST-IREF), GIST, 2026.
 * [2026.05.] Gold Reviewer (ranked in top 25%), ICML, 2026.
 * [2026.05.] Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization was accepted at ICML 2026.
@@ -33,7 +34,7 @@ Disentanglement in VAE was accepted at AISTATS 2026.
 <br>
 
 # Education
-* Gwanju Institute of Science and Technology (GIST), Gwanju, Korea
+* Gwanju Institute of Science and Technology (GIST), Gwangju, Korea
     * Ph.D., Artificial Intelligence (2020 - present)
     * Advisor: Kangil Kim
 * Kyung Hee University, Suwon, Korea
@@ -41,6 +42,9 @@ Disentanglement in VAE was accepted at AISTATS 2026.
 
 
 # Research Experience
+* National University of Singapore, Singapore
+  * Visiting Scholar, Artificial Scientific Intelligence Lab (June. 2026 - Present)
+  * Host Professor: Dianbo Liu
 * Kyung Hee University, Suwon, Korea
     * Undergraduate Researcher, Intelligent Robotic Mechatronics System Lab (Mar. 2019 - Dec. 2019)
     * Advisor: Soon Geul Lee 
