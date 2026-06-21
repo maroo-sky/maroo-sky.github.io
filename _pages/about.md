@@ -15,7 +15,7 @@ For more details, see my [CV](https://maroo-sky.github.io/files/CV_HeeJun_Jung.p
 
 
 # News
-* [2026.06.] Disentangling Rotation and Translation Equivariant Features for 3D Shape Assembly was accepted at ECCV 2026.
+* [2026.06.] Disentangling Rotation and Translation from SE(3)-Equivariant Features for Shape Assembly was accepted at ECCV 2026.
 * [2026.06.] Graduate International Research Experience Fellowship (GIST-IREF), GIST, 2026.
 * [2026.05.] Gold Reviewer (ranked in top 25%), ICML, 2026.
 * [2026.05.] Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization was accepted at ICML 2026.
