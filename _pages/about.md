@@ -43,7 +43,7 @@ Disentanglement in VAE was accepted at AISTATS 2026.
 
 # Research Experience
 * National University of Singapore, Singapore
-  * Visiting Scholar, Artificial Scientific Intelligence Lab (June. 2026 - Present)
+  * Visiting Scholar, Artificial Scientific Intelligence Lab (Jun. 2026 - Present)
   * Host Professor: Dianbo Liu
 * Kyung Hee University, Suwon, Korea
     * Undergraduate Researcher, Intelligent Robotic Mechatronics System Lab (Mar. 2019 - Dec. 2019)
