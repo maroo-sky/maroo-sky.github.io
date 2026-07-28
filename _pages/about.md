@@ -34,7 +34,7 @@ Disentanglement in VAE was accepted at AISTATS 2026.
 <br>
 
 # Education
-* Gwanju Institute of Science and Technology (GIST), Gwangju, Korea
+* Gwangju Institute of Science and Technology (GIST), Gwangju, Korea
     * Ph.D., Artificial Intelligence (2020 - present)
     * Advisor: Kangil Kim
 * Kyung Hee University, Suwon, Korea
