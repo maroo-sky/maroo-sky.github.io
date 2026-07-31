@@ -15,6 +15,7 @@ For more details, see my [CV](https://maroo-sky.github.io/files/CV_HeeJun_Jung.p
 
 
 # News
+* [2026.07.] The Impact of Enforcing Representational Consistency of Identical Transformations for Disentangled Representation was accepted at at Transactions on Machine Learning Research (TMLR).
 * [2026.06.] Disentangling Rotation and Translation from SE(3)-Equivariant Features for Shape Assembly was accepted at ECCV 2026.
 * [2026.06.] Graduate International Research Experience Fellowship (GIST-IREF), GIST, 2026.
 * [2026.05.] Gold Reviewer (ranked in top 25%), ICML, 2026.
