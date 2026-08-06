@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 # About me
-I am Hee-Jun Jung, Ph.D. candidate in Artificial Intelligence at AI Graduate School of the Gwangju Institute of Science and Techonology (GIST), advised by Professor Kangil Kim. 
-My interests are Disentanglement Learning, Visual Reasoning, Representation Learning (symmetry) in Computer Vision, and Knowledge Distillation in Natural Launguage Processing.
+I am Hee-Jun Jung, Ph.D. candidate in Artificial Intelligence at AI Graduate School of the Gwangju Institute of Science and Technology (GIST), advised by Professor Kangil Kim. 
+My interests are Disentanglement Learning, Visual Reasoning, Representation Learning (symmetry) in Computer Vision, and Knowledge Distillation in Natural Language Processing.
 For more details, see my [CV](https://maroo-sky.github.io/files/CV_HeeJun_Jung.pdf).
 
 
 # News
-* [2026.07.] The Impact of Enforcing Representational Consistency of Identical Transformations for Disentangled Representation was accepted at at Transactions on Machine Learning Research (TMLR).
+* [2026.07.] The Impact of Enforcing Representational Consistency of Identical Transformations for Disentangled Representation was accepted at Transactions on Machine Learning Research (TMLR).
 * [2026.06.] Disentangling Rotation and Translation from SE(3)-Equivariant Features for Shape Assembly was accepted at ECCV 2026.
 * [2026.06.] Graduate International Research Experience Fellowship (GIST-IREF), GIST, 2026.
 * [2026.05.] Gold Reviewer (ranked in top 25%), ICML, 2026.
